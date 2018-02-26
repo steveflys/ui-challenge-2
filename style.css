@@ -1,0 +1,220 @@
+* {
+    width: 100%;
+    height: 1000px;
+    border: 0;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+    overflow: auto;
+}
+input[type="text"] {
+    border: 1px solid black;
+}
+
+#text-input {
+    width: 80%;
+    height: 13%;
+    display: block;
+    margin-left: 20px;
+}
+  
+#text {
+    width: 70%;
+    height: 15%;
+    display: block;
+    margin: 10px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.25em;
+} 
+
+#input-text {
+    height: 28%;
+    width: 50%;
+}
+
+#val-text {
+    width: 80%;
+    height: 13%;
+    display: block;
+    margin-left: 20px;
+}
+#text-val {
+    width: 70%;
+    height: 15%;
+    display: block;
+    margin: 10px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.25em;
+}
+
+#input-text-val {
+    width: 50%;
+    height: 28%;
+    display: block;
+    border: 1px solid red;
+}
+
+#instruction {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    margin-left: 36.2%;
+}
+
+select {
+    appearance: none;
+    border: 1px solid black;
+}
+
+.arrow-down {
+	background: url('imgs/form-elements-sprite.png') no-repeat 82.946% 49.558%;
+	width: 76px;
+	height: 77px;
+}
+  
+.arrow-up {
+	background: url('imgs/form-elements-sprite.png') no-repeat 82.946% 49.558%;
+	width: 76px;
+	height: 77px;
+}
+  
+.check-mt {
+	background: url('imgs/form-elements-sprite.png') no-repeat 82.946% 49.558%;
+	width: 76px;
+	height: 77px;
+}
+
+.check {
+	background: url('imgs/form-elements-sprite.png') no-repeat 82.946% 49.558%;
+	width: 76px;
+	height: 77px;
+}
+
+.radio-mt {
+	background: url('imgs/form-elements-sprite.png') no-repeat 45.221% 50.84%;
+	width: 167px;
+	height: 166px;
+}
+
+.radio-dot {
+	background: url('imgs/form-elements-sprite.png') no-repeat 63.142% 50.84%;
+	width: 168px;
+	height: 166px;
+}
+
+#first-select {
+    width: 80%;
+    height: 13%;
+    display: block;
+    margin-left: 20px;
+}
+  
+#select-box {
+    width: 70%;
+    height: 15%;
+    display: block;
+    margin: 10px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.25em;
+} 
+
+#box {
+    height: 28%;
+    width: 50%;
+}
+
+#option-select {
+    width: 80%;
+    height: 13%;
+    display: block;
+    margin-left: 20px;
+}
+  
+#select-option {
+    width: 70%;
+    height: 15%;
+    display: block;
+    margin: 10px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.25em;
+} 
+
+#option {
+    height: 28%;
+    width: 50%;
+}
+
+#check-box {
+    width: 80%;
+    height: 13%;
+    display: block;
+    margin-left: 20px;
+}
+  
+#checkbox {
+    width: 70%;
+    height: 15%;
+    display: block;
+    margin: 10px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.25em;
+} 
+
+input[type="checkbox"]:not(:checked) {
+    background: url('imgs/form-elements-sprite.png') no-repeat -1143px -280px;
+	width: 76px;
+	height: 77px;
+}
+
+#radio-box {
+    width: 80%;
+    height: 13%;
+    display: block;
+    margin-left: 20px;
+}
+  
+#radio {
+    width: 70%;
+    height: 15%;
+    display: block;
+    margin: 10px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.25em;
+} 
+
+input[type="radio"] {
+    background: url('imgs/form-elements-sprite.png') no-repeat -582px -242px;
+	width: 167px;
+	height: 166px;
+}
+
+#dot {
+    height: 20px;
+    width: 20px;
+}
+
+#button {
+    width: 80%;
+    height: 13%;
+    display: block;
+    margin-left: 20px;
+}
+  
+#buttons {
+    width: 70%;
+    height: 15%;
+    display: block;
+    margin: 10px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.25em;
+} 
+
+#submit {
+    border: 1px solid black;
+    height: 30px;
+    width: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    background-color: rgb(90, 90, 90);
+    color: white;
+}
