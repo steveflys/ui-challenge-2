@@ -1,0 +1,2 @@
+I took 30 minutes to read the sprite information and get the sprite position values for the css.  I spent about 30 minutes on the HTML, then the remaining 2 hours on the CSS, most of it researching how to get the sprite images rto showup.  I tried to use visiblity hidden on the elements with no luck.
+I have no idea how to make the sprites work.
